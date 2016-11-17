@@ -31,7 +31,7 @@
     <Content Include="Scripts\Deploy-AzureResourceGroup.ps1" />
     <None Include="Scripts\install_mariadb.sh" />
     <None Include="Scripts\install_ngix.sh" />
-    <None Include="Templates\LinuxVirtualMachinet.json" />
+    <None Include="Templates\LinuxVirtualMachine.json" />
     <None Include="Templates\LinuxVirtualMachine.parameters.json" />
   </ItemGroup>
   <Target Name="GetReferenceAssemblyPaths" />
